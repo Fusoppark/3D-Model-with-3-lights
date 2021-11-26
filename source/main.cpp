@@ -8,11 +8,11 @@
 #include <iostream>
 #include <cmath>
 
-#include <shader.h>
-#include <cube.h>
-#include <arcball.h>
+#include "shader.h"
+#include "cube.h"
+#include "arcball.h"
 #define STB_IMAGE_IMPLEMENTATION
-#include <stb_image.h>
+#include "stb_image.h"
 #include "cylinder.h"
  
 
